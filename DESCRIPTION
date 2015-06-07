@@ -1,10 +1,10 @@
 Package: fiboSeries
 Type: Package
-Title: Fibonacci Series using R and Rcpp
+Title: Fibonacci Series Calculation using R and Rcpp
 Version: 1.0
 Date: 2015-06-04
 Author: Shakil Ahmed
 Maintainer: Shakil <shakil0911@yahoo.com>
-Description: Calculate the nth numer of the Fibinacci Series
+Description: Calculate the nth number of the Fibinacci Series
 Depends: Rcpp
 License: GPL-2
