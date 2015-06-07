@@ -3,7 +3,7 @@ Type: Package
 Title: Fibonacci Series using R and Rcpp
 Version: 1.0
 Date: 2015-06-04
-Author: Shakil Ahmed<shakil0911@yahoo.com>
+Author: Shakil Ahmed
 Maintainer: Shakil <shakil0911@yahoo.com>
 Description: Calculate the nth numer of the Fibinacci Series
 Depends: Rcpp
